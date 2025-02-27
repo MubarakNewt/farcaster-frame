@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     'fc:frame': 'vNext',
     'fc:frame:image': 'https://media.istockphoto.com/id/2125872569/photo/businessman-signing-a-legal-real-estate-contract-agreement-home-insurance.webp?a=1&b=1&s=612x612&w=0&k=20&c=jeT_yWSIcphgoW9LEAkkCv0bKTOro5jlK3LJxuXpdRw=', // Replace with your image URL
     'fc:frame:button:1': 'Click me!',
-    'fc:frame:post_url': 'https://your-domain.com/api/frame', // Replace with your API endpoint
+    'fc:frame:post_url': 'https://farcaster-frame-six.vercel.app/', // Replace with your API endpoint
   },
 }
 
